@@ -6,7 +6,7 @@ public class Main {
                 ucil jsem se.
                 chodil sjem an brigadu.
                 byl jsem s kamaradam an slovensku na 3 dny.
-                spal jsem.
+                spal jssem.
                 """;
         System.out.println(prazdniny);
 
